@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "hello world" 
+=======
+test
+>>>>>>> f262e9c3f83b2ff4867de68988dd5251dd86d8f2
