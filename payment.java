@@ -5,6 +5,6 @@ public class payment{
       if (paymentSuccess){
         System.out.println("paied" + amount);
       } else {
-        System.out.println("failed");
+        System.out.println("실패");
     }
 }
