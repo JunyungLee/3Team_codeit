@@ -3,7 +3,7 @@ public class payment{
       double amount = 100.0
       boolean paymentSuccess = processPayment(amount);
       if (paymentSuccess){
-        System.out.println("payed" + amount);
+        System.out.println("paid" + amount);
       } else {
         System.out.println("failed");
     }
